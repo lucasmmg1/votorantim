@@ -6,6 +6,14 @@ TagManager:
   tags:
   - Fuse
   - Anchor
+  - mascara_pff2
+  - avental
+  - botas
+  - capacete
+  - mascara_de_solda
+  - protetor_auricular
+  - macarico
+  - luvas
   layers:
   - Default
   - TransparentFX
@@ -14,6 +22,9 @@ TagManager:
   - Water
   - UI
   - 
+  - Player
+  - Objects
+  - Structures
   - 
   - 
   - 
@@ -24,12 +35,9 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - mangueira
+  - encaixe
+  - macarico
   - 
   - 
   - 
